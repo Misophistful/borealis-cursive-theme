@@ -2,7 +2,7 @@
 
 A Cursive Clojure theme with a dark background and rainbow brackets:
 
-![Borealis](https://github.com/Misophistful/borealis-cursive-theme/wiki/images/screenshot.png)
+![Borealis](https://github.com/Misophistful/borealis-cursive-theme/wiki/images/Borealis.png)
 
 ## Installation instructions
 Backup your existing IntelliJ settings, so you can easily revert if you need to:
