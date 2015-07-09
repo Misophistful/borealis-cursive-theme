@@ -9,6 +9,8 @@ A [Cursive Clojure](https://cursiveclojure.com) theme with a dark background and
 2. Import the settings into IntelliJ IDEA:
   - File -> Import Settings...
   - Choose the `Borealis.jar` file
-  - Ensure the "Color schemes" checkbox is checked
+  - Ensure the "Editor Colors" checkbox is checked
   - Click the "Ok" button
   - Restart IDEA
+3. To enable rainbow parenthesis:
+  - Preferences -> Languages & Frameworks -> Clojure -> Rainbow parentheses
