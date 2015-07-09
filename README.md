@@ -12,5 +12,5 @@ A [Cursive Clojure](https://cursiveclojure.com) theme with a dark background and
   - Ensure the "Editor Colors" checkbox is checked
   - Click the "Ok" button
   - Restart IDEA
-3. To enable rainbow parenthesis:
+3. To enable rainbow parentheses:
   - Preferences -> Languages & Frameworks -> Clojure -> Rainbow parentheses
