@@ -1,6 +1,6 @@
 # Borealis
 
-A [Cursive Clojure](https://cursiveclojure.com) theme with a dark background and rainbow brackets:
+A [Cursive Clojure](https://cursiveclojure.com) theme with pastel colours and a dark background (it also supports rainbow brackets):
 
 ![Borealis](https://github.com/Misophistful/borealis-cursive-theme/wiki/images/Borealis.png)
 
